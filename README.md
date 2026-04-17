@@ -4,6 +4,7 @@
 
 **InsurX** is an AI-enabled parametric insurance platform built exclusively for food delivery partners (Zomato / Swiggy). It protects their weekly income against uncontrollable external disruptions — heavy rain, extreme heat, severe pollution, floods, and curfews. When a disruption is detected, the payout is triggered automatically. No claims. No paperwork. Money in their UPI within the week.
 
+**Pitch-Deck** - https://drive.google.com/drive/folders/1DLrvgP7OfG3BJwamCs-oxJb0kHM9R4SS
 ---
 
 ## Table of Contents
